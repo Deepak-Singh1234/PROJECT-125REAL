@@ -1,0 +1,8 @@
+canvas{
+    border-radius: 10%;
+    border-width: 20px;
+    border-left-color: crimson;
+    border-right-color: darkblue;
+    border-top-color: yellow;
+    border-bottom-color: purple;
+}
